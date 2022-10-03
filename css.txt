@@ -1,0 +1,22 @@
+FLEXBOX LAYOUT
+
+The flexible box layout module makes it easier to design flexible responsive layout structure w/o using float or positioning
+
+flex container: becomes flexible by setting display property to flex. flex container properties are:
+flex-direction: row| column | row-reverse | column-reverse
+flexwrap
+flexflow
+justify-content: flex-start | flex-end |center | space between | space around | space-evenly
+align-items
+align-content
+
+flex-direction property
+flex direction property defines which direction the container wants to stack the flex items
+flex-wrap property
+flex-wrap property specifies whether the flexitems should wrap or not
+
+justify content property
+justify content propertyis used to align the flex items
+
+align-item property
+align item property is used to align the flex items
